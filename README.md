@@ -4,7 +4,7 @@ You can run this project with `npm install` (to get the react dependencies) then
 
 The buttons can move the test div (green) up/down/left/right by various increments. 
 You can control the size of the incremnt by using the +/- buttons in the table. 
-![A Snapshot of the Applet](appsnap.png)
+![A Snapshot of the Applet](https://github.com/BennEntterprise/btn-move-div/blob/master/appsnap.jpg)
 
 Features I may demo later
 - A line attaching the white box corner to the left box (this is where the relative measurements are taken from)
