@@ -1,3 +1,26 @@
+This is a mini demonstration on how to move a div based on events fired from buttons. 
+
+You can run this project with `npm install` (to get the react dependencies) then run `npm start` from inside the directory.
+
+The buttons can move the test div (green) up/down/left/right by various increments. 
+You can control the size of the incremnt by using the +/- buttons in the table. 
+![A Snapshot of the Applet](appsnap.png)
+
+Features I may demo later
+- A line attaching the white box corner to the left box (this is where the relative measurements are taken from)
+- An ability to make the increment in % or pixels. 
+- Restraints that will not allow the text box to move outside the white test area.
+- More responsive design
+- More visually appealing interface.
+
+
+
+
+
+
+
+
+--- Normal Create-react-app information--------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
